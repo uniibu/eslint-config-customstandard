@@ -1,21 +1,21 @@
-# eslint-config-semistandard
+# eslint-config-customstandard
 
 [![npm][npm-image]][npm-url]
 [![travis][travis-image]][travis-url]
 
-[npm-image]: https://img.shields.io/npm/v/eslint-config-semistandard.svg?style=flat-square
-[npm-url]: https://www.npmjs.com/package/eslint-config-semistandard
-[travis-image]: https://img.shields.io/travis/Flet/eslint-config-semistandard.svg?style=flat-square
-[travis-url]: https://travis-ci.org/Flet/eslint-config-semistandard
+[npm-image]: https://img.shields.io/npm/v/eslint-config-customstandard.svg?style=flat-square
+[npm-url]: https://www.npmjs.com/package/eslint-config-customstandard
+[travis-image]: https://img.shields.io/travis/Flet/eslint-config-customstandard.svg?style=flat-square
+[travis-url]: https://travis-ci.org/uniibu/eslint-config-customstandard
 
-eslint sharable config for semistandard
+eslint sharable config for customstandard
 
 ## Install
 
 ```bash
 npm install eslint-plugin-promise eslint-plugin-standard eslint-plugin-react
 npm install eslint-config-standard
-npm install eslint-config-semistandard
+npm install eslint-config-customstandard
 # note that eslint-plugin-promise, eslint-plugin-standard, & eslint-plugin-react are required peer dependencies
 ```
 

@@ -1,10 +1,10 @@
 {
-  "name": "eslint-config-semistandard",
+  "name": "eslint-config-customstandard",
   "description": "eslint sharable config for semistandard",
-  "version": "11.0.0",
-  "author": "Dan Flettre <fletd01@yahoo.com>",
+  "version": "1.0.0",
+  "author": "John Sayo <unibtc@gmail.com>",
   "bugs": {
-    "url": "https://github.com/Flet/eslint-config-semistandard/issues"
+    "url": "https://github.com/uniibu/eslint-config-customstandard/issues"
   },
   "devDependencies": {
     "eslint": "^3.19.0",
@@ -18,9 +18,9 @@
     "tap-spec": "^4.0.0",
     "tape": "^4.6.0"
   },
-  "homepage": "https://github.com/Flet/eslint-config-semistandard",
+  "homepage": "https://github.com/uniibu/eslint-config-customstandard",
   "keywords": [
-    "semistandard",
+    "custom standard",
     "style checker",
     "code style",
     "code checker",
@@ -42,15 +42,15 @@
     "quality",
     "checker",
     "code standards",
-    "JavaScript Semistandard Style",
-    "semistandard style",
+    "JavaScript Custom standard Style",
+    "customstandard style",
     "eslintconfig"
   ],
   "license": "ISC",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Flet/eslint-config-semistandard.git"
+    "url": "https://github.com/uniibu/eslint-config-customstandard.git"
   },
   "scripts": {
     "test": "standard && tape test/*.js | tap-spec"
